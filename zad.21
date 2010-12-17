@@ -1,0 +1,5 @@
+1. find -perm 777
+2. find -atime +7
+3. find -size 100k
+4. find -empty
+5. find -atime +30 -size +500k
