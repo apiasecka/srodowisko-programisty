@@ -1,0 +1,11 @@
+=> echo "Ala ma kota. Kot ma Ale." | sed -e 's/./!/' - zamienia pierwszy 
+znak (A) na (!)
+
+=> echo "Ala ma kota. Kot ma Ale." | sed -e 's/\./!/' - zamienia 
+pierwsza (.) na (!)
+
+=> echo "Ala ma kota. Kot ma Ale." | sed -e 's/./!/g' - zamienia cale 
+wyrazenie na (!)
+
+=> echo "Ala ma kota. Kot ma Ale." | sed -e 's/\./!/g' - zamienia 
+wszystkie kropiki na (!)
