@@ -1,0 +1,6 @@
+//zakladamy ze jest 50 liczb
+najbardziej optymalna metoda jest podanie liczby 'srodkowej' w tym 
+przypadku bedzie to 25, dostaniemy komunikat 'za malo' 'za duzo' 'ok', 
+jesli nie bedzie to trafiona liczba to kolejny przedzial [(1,24) 
+(24,50)] dzielimy na polowe podajemy nasza liczbe srodkowa, dzieki temu 
+przedzial zmniejsza nam sie o polowe ;)
