@@ -6,7 +6,7 @@ int silnia(int n) {
 }
 
 int c1(int n,int k) {
-	int newt, p;
+	int newt;
 	newt=silnia(n)/(silnia(k)*silnia(n-k));
 }
 
