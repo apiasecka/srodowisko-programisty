@@ -1,0 +1,4 @@
+c2 - podaje poprawne wyniki dla wiekszych n
+c1 - nie radzi sobie z duzymi n, musi policzyc silnie (dla duzych n - int nie przechowuje calej liczby) a dopiero potem dzieli, przez co wynika sa niedokladne/niepoprawne
+
+program c2 jest bardziej wydajny ;)
